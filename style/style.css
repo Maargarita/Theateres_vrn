@@ -1,0 +1,29 @@
+body{background-color: #FDEAA8;}
+#navbar{
+margin: 0;
+padding: 50;
+padding-top: 0px;
+list-style-type: none;
+border: 2px solid #fff1;
+width: 150px;
+height: 900px;
+background-color: #30D5C8;}
+#sp{list-style-type: none;
+text-indent: 30px;}
+
+#navbar a {
+color: #fff;
+padding: 5px 10px;
+text-decoration: none;
+font-weight: bold;
+display: inline-block;
+width: 100px;}
+#navbar a:hover {
+margin:0px;
+padding: 20px;
+border-radius: 10px;
+background-color: pink;}
+#im {
+position: relative;
+left: 30%;
+top: 15%;}
